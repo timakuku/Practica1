@@ -1,0 +1,162 @@
+.logo-head{
+    font-size: 70px;
+    text-align:  center;
+    font-family: "Gill Sans", sans-serif;
+    color: #fff;
+}
+.gmg{
+    padding-bottom: 4%;
+    width: 600px;
+    height: 400px;
+    text-align: center;
+}
+.obj{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-nature-background-with-empty-space_52683-60843.jpg);
+    
+}
+.back{
+    background-color: #598f4a;
+    height: 80px;
+    text-align: center;
+    color: white;
+    width: 100%;
+
+}
+.row{
+    background-color: #8f4a7e;
+    padding: 0.5rem ;
+
+}
+.button {
+    background-color: #67a755; /* Green */
+    border: none;
+    color: white;
+    width: 193px;
+    height: 220px;
+    padding-top: 0%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-table;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: 'comfortaabold', sans-serif;
+  }
+.button:hover {
+    background-color: #04AA6D;
+    color: white;
+}
+.tov{
+    width: 240px;
+    height: 270px;
+    border: 1px solid #000000;
+    background-color: white;
+}
+.catalog{
+    position: unset;
+    width: 100%;
+    padding-bottom: 0%;
+    text-align: center;
+    background-size: contain;
+
+}
+.text{
+    text-align: center;
+    vertical-align: 15px;
+    
+}
+section {
+    float: left;
+    width: 240px;
+    text-align: center;
+    margin: 0%;
+    margin-right: 4px;
+    padding-top: 0%;
+    
+
+  }
+.center{
+    text-align: center;
+    
+}
+.name{
+    font-family: 'Palatino, URW Palladio L, serif';
+    text-align: center;
+
+}
+.button1 {
+    background-color: #67a755; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    width: 155px;
+    height: 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-table;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+.button1:hover {
+    background-color: #04AA6D;
+    color: white;
+}
+.table {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.footer {
+    background-color: #67a755;
+    color: #fff;
+    padding: 45px 0 15px;
+    margin-top: 40px;
+    font-family: 'comfortaaregular', sans-serif;
+    text-align: center;
+}
+.footsize {
+    max-width: 100% !important;
+
+    
+}
+.header{
+    background-color: #67a755 ;
+    
+}
+.button2{
+    background-color: #a75595; /* Green */
+    border-radius: 25px;
+    padding: 20px;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    width: 30%auto;
+
+}
+.nav{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: baseline;
+    background-color: none;
+    color: white;
+}
+.conteiner{
+    width: 100%;
+    background-color:  #67a755;
+}
+div{
+    margin: 12px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+body{
+    background-color: rgb(248, 248, 248);
+}
